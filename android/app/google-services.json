@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733835057972",
+    "project_id": "flutter-firebase-push-no-f641e",
+    "storage_bucket": "flutter-firebase-push-no-f641e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733835057972:android:6bc629b0524deaccb9e361",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTa0ihVMqay-VRYzUqoCG_2Denyy1h4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
